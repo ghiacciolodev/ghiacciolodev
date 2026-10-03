@@ -1,6 +1,6 @@
 ## Simone Acierno
 
-I mostly do Java + Spring Boot, but honestly I just pick whatever fits: Python/FastAPI, Flutter if it's an app, Angular for the web stuff.
+Full stack dev · Java/Spring, Angular, Flutter, Python
 
 ## some things I built
 
