@@ -1,16 +1,23 @@
-## Hi there 👋
+## Simone Acierno
 
-<!--
-**ghiacciolodev/ghiacciolodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly do Java + Spring Boot, but honestly I just pick whatever fits: Python/FastAPI, Flutter if it's an app, Angular for the web stuff.
 
-Here are some ideas to get you started:
+## some things I built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Visual Project Manager](https://github.com/ghiacciolodev/Visual-Project-Manager)**: a Gantt planner that tells you which task is wrecking your deadline
+- **[ToDoTrip](https://github.com/ghiacciolodev/ToDoTrip)**: planning trips with friends without arguing over who owes who
+- **[ral-netto](https://ghiacciolodev.github.io/ral-netto/)**: finally figuring out where my salary goes (spoiler: taxes)
+
+when I'm bored I make Minecraft server plugins that fight lag.
+
+## stuff I use
+
+**backend:** Java, Spring Boot, Python, FastAPI, PostgreSQL  
+**frontend:** Angular, TypeScript, Flutter  
+**other:** Docker, Keycloak, GitHub Actions
+
+## about me
+
+I also taught coding to high schoolers for two years, so yeah, I've seen some code.
+
+more on [simoneacierno.dev](https://simoneacierno.dev) · [LinkedIn](https://www.linkedin.com/in/simone-acierno/)
